@@ -1,0 +1,40 @@
+*{
+padding:0;
+margin:0;
+}
+
+#container{
+width:90%;
+margin:0 auto;
+background-color:#f6f6f6;
+border-style:dotted;
+}
+.col{
+width:29.5%;
+padding:10px;
+margin:10px;
+float:left;
+}
+.col1{
+border-style:solid dasked;
+background-color: ff0000;
+}
+.col2 p{
+line-height:50px;
+border: 1 solid;
+margin-bottom:10px;
+}
+.col2{
+border: none;
+border-radius:10;
+box-shadow:5px 5px green;
+}
+.col3{
+background-color:rgba(0,0,0.3);
+}
+.col4{
+clear:left;
+width:96%;
+background:linear-gradient(#ABA172,#FFF);
+margin:10;
+}
